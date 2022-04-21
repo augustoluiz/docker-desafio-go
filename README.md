@@ -1,6 +1,11 @@
 # docker-desafio-go
 Repositório do Desafio Go do Módulo de Docker - Curso Full Cycle 3.0
 
+# Imagem Publicada
+
+* Nome da imagem: auluisi/codeeducation
+* Docker hub: https://hub.docker.com/r/auluisi/codeeducation/tags
+
 # Enunciado
 Esse desafio é muito empolgante principalmente se você nunca trabalhou com a linguagem Go!
 Você terá que publicar uma imagem no docker hub. Quando executarmos:
